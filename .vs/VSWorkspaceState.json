@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Kernal_Travel_Guide",
+    "\\Kernal_Travel_Guide\\Controllers",
+    "\\Kernal_Travel_Guide\\Models",
+    "\\Kernal_Travel_Guide\\Views",
+    "\\Kernal_Travel_Guide\\Views\\Home",
+    "\\Kernal_Travel_Guide\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Kernal_Travel_Guide\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}

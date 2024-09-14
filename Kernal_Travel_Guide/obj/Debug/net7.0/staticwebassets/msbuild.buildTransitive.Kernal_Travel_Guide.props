@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Kernal_Travel_Guide.props" />
+</Project>

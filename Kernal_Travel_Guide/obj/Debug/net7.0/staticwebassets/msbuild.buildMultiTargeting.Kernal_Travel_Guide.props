@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kernal_Travel_Guide.props" />
+</Project>
