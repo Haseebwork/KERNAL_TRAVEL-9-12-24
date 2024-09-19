@@ -11299,11 +11299,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asp\\Desktop\\kernel-latest-main\\Kernal_Travel_Guide\\Kernal_Travel_Guide.csproj",
+      "projectUniqueName": "C:\\Users\\asp\\Music\\KERNAL_TRAVEL-16 129-main\\Kernal_Travel_Guide\\Kernal_Travel_Guide.csproj",
       "projectName": "Kernal_Travel_Guide",
-      "projectPath": "C:\\Users\\asp\\Desktop\\kernel-latest-main\\Kernal_Travel_Guide\\Kernal_Travel_Guide.csproj",
+      "projectPath": "C:\\Users\\asp\\Music\\KERNAL_TRAVEL-16 129-main\\Kernal_Travel_Guide\\Kernal_Travel_Guide.csproj",
       "packagesPath": "C:\\Users\\asp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asp\\Desktop\\kernel-latest-main\\Kernal_Travel_Guide\\obj\\",
+      "outputPath": "C:\\Users\\asp\\Music\\KERNAL_TRAVEL-16 129-main\\Kernal_Travel_Guide\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,14 +1,14 @@
-﻿@model Kernal_Travel_Guide.Models.Hotel
+﻿@model Kernal_Travel_Guide.Models.Resort
 
 @{
-    ViewData["Title"] = "Details";
-    Layout = "~/Views/Shared/Admin.cshtml";
+    ViewData["Title"] = "ResortDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Details</h1>
+<h1>ResortDetails</h1>
 
 <div>
-    <h4>Hotel</h4>
+    <h4>Resort</h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -50,6 +50,6 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.HotelId">Edit</a> |
+    <a asp-action="Edit" asp-route-id="@Model?.ResortId">Edit</a> |
     <a asp-action="Index">Back to List</a>
 </div>

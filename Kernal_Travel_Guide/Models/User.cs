@@ -7,16 +7,15 @@ public partial class User
 {
     public int UserId { get; set; }
 
-    public string Name { get; set; } = null!;
+    public string? Name { get; set; }
 
     public string Email { get; set; } = null!;
 
     public string Password { get; set; } = null!;
 
-    public string Phone { get; set; } = null!;
+    public string? Phone { get; set; }
 
     public virtual ICollection<Feedback> Feedbacks { get; set; } = new List<Feedback>();
 
     public virtual ICollection<Reservation> Reservations { get; set; } = new List<Reservation>();
 }
- 

@@ -34,18 +34,18 @@ public partial class KernalTravelGuideContext : DbContext
     public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
         => optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=Kernal_travel_Guide;User ID=sa;Password=aptech; TrustServerCertificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Admin>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Admin__3214EC27DA9C1F3B");
+            entity.HasKey(e => e.Id).HasName("PK__Admin__3214EC27CF818AB8");
 
             entity.ToTable("Admin");
 
-            entity.HasIndex(e => e.Email, "UQ__Admin__A9D10534613BED5D").IsUnique();
+            entity.HasIndex(e => e.Email, "UQ__Admin__A9D10534F29FC676").IsUnique();
 
             entity.Property(e => e.Id).HasColumnName("ID");
             entity.Property(e => e.Email).HasMaxLength(255);
@@ -55,7 +55,7 @@ public partial class KernalTravelGuideContext : DbContext
 
         modelBuilder.Entity<Feedback>(entity =>
         {
-            entity.HasKey(e => e.FeedbackId).HasName("PK__Feedback__6A4BEDF668B06C2B");
+            entity.HasKey(e => e.FeedbackId).HasName("PK__Feedback__6A4BEDF6EDBF1605");
 
             entity.ToTable("Feedback");
 
@@ -73,7 +73,7 @@ public partial class KernalTravelGuideContext : DbContext
 
         modelBuilder.Entity<Hotel>(entity =>
         {
-            entity.HasKey(e => e.HotelId).HasName("PK__Hotels__46023BBF3D91734E");
+            entity.HasKey(e => e.HotelId).HasName("PK__Hotels__46023BBF5DCC9B43");
 
             entity.Property(e => e.HotelId).HasColumnName("HotelID");
             entity.Property(e => e.Description).HasColumnType("text");
@@ -87,7 +87,7 @@ public partial class KernalTravelGuideContext : DbContext
 
         modelBuilder.Entity<Reservation>(entity =>
         {
-            entity.HasKey(e => e.ReservationId).HasName("PK__Reservat__B7EE5F04CCD72BA5");
+            entity.HasKey(e => e.ReservationId).HasName("PK__Reservat__B7EE5F0422F858A0");
 
             entity.Property(e => e.ReservationId).HasColumnName("ReservationID");
             entity.Property(e => e.HotelId).HasColumnName("HotelID");
@@ -129,7 +129,7 @@ public partial class KernalTravelGuideContext : DbContext
 
         modelBuilder.Entity<Resort>(entity =>
         {
-            entity.HasKey(e => e.ResortId).HasName("PK__Resorts__7D2D742E80D51F00");
+            entity.HasKey(e => e.ResortId).HasName("PK__Resorts__7D2D742EC8D0C2ED");
 
             entity.Property(e => e.ResortId).HasColumnName("ResortID");
             entity.Property(e => e.Description).HasColumnType("text");
@@ -143,7 +143,7 @@ public partial class KernalTravelGuideContext : DbContext
 
         modelBuilder.Entity<Restaurant>(entity =>
         {
-            entity.HasKey(e => e.RestaurantId).HasName("PK__Restaura__87454CB5F7A8EDC5");
+            entity.HasKey(e => e.RestaurantId).HasName("PK__Restaura__87454CB526120FF4");
 
             entity.Property(e => e.RestaurantId).HasColumnName("RestaurantID");
             entity.Property(e => e.CuisineType).HasMaxLength(100);
@@ -157,7 +157,7 @@ public partial class KernalTravelGuideContext : DbContext
 
         modelBuilder.Entity<TouristSpot>(entity =>
         {
-            entity.HasKey(e => e.TouristSpotId).HasName("PK__TouristS__4A82D4D746BB2DB0");
+            entity.HasKey(e => e.TouristSpotId).HasName("PK__TouristS__4A82D4D70282852C");
 
             entity.Property(e => e.TouristSpotId).HasColumnName("TouristSpotID");
             entity.Property(e => e.Category)
@@ -178,7 +178,7 @@ public partial class KernalTravelGuideContext : DbContext
 
         modelBuilder.Entity<TravelInfo>(entity =>
         {
-            entity.HasKey(e => e.TravelInfoId).HasName("PK__TravelIn__444755C8A46703AC");
+            entity.HasKey(e => e.TravelInfoId).HasName("PK__TravelIn__444755C8C414661F");
 
             entity.ToTable("TravelInfo");
 
@@ -191,9 +191,9 @@ public partial class KernalTravelGuideContext : DbContext
 
         modelBuilder.Entity<User>(entity =>
         {
-            entity.HasKey(e => e.UserId).HasName("PK__Users__1788CCAC5F9C7440");
+            entity.HasKey(e => e.UserId).HasName("PK__Users__1788CCAC1047FA80");
 
-            entity.HasIndex(e => e.Email, "UQ__Users__A9D105349AD5E8E1").IsUnique();
+            entity.HasIndex(e => e.Email, "UQ__Users__A9D10534C4F36799").IsUnique();
 
             entity.Property(e => e.UserId).HasColumnName("UserID");
             entity.Property(e => e.Email).HasMaxLength(255);

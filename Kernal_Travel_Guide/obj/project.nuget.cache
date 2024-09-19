@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "exttiNmanqMiIZC3xvbxcdYmbWZL1Sg5syWgR2QgFPo+FVQSAQAA7fHyHsS+T+b3h/tiEVijlIlUOwBuJXAu2A==",
+  "dgSpecHash": "g2CcMHhOooESMut041pdAdbQIWga/ULcps8mLkmJRl0bIC770GL1L9gy4D7upuvSEQXazlCwwtyG+Nz2vnO40A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asp\\Desktop\\kernel-latest-main\\Kernal_Travel_Guide\\Kernal_Travel_Guide.csproj",
+  "projectFilePath": "C:\\Users\\asp\\Music\\KERNAL_TRAVEL-16 129-main\\Kernal_Travel_Guide\\Kernal_Travel_Guide.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asp\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\asp\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

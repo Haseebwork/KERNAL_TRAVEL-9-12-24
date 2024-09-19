@@ -1,14 +1,14 @@
-﻿@model Kernal_Travel_Guide.Models.Hotel
+﻿@model Kernal_Travel_Guide.Models.TouristSpot
 
 @{
-    ViewData["Title"] = "Details";
-    Layout = "~/Views/Shared/Admin.cshtml";
+    ViewData["Title"] = "TouristSpotDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Details</h1>
+<h1>TouristSpotDetails</h1>
 
 <div>
-    <h4>Hotel</h4>
+    <h4>TouristSpot</h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -18,28 +18,22 @@
             @Html.DisplayFor(model => model.Name)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Location)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Location)
-        </dd>
-        <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Description)
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Description)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.PriceRange)
+            @Html.DisplayNameFor(model => model.Location)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.PriceRange)
+            @Html.DisplayFor(model => model.Location)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Rating)
+            @Html.DisplayNameFor(model => model.Category)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Rating)
+            @Html.DisplayFor(model => model.Category)
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.ImageUrl)
@@ -47,9 +41,15 @@
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.ImageUrl)
         </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PriceRange)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PriceRange)
+        </dd>
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.HotelId">Edit</a> |
+    <a asp-action="Edit" asp-route-id="@Model?.TouristSpotId">Edit</a> |
     <a asp-action="Index">Back to List</a>
 </div>

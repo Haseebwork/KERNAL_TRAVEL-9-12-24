@@ -9,157 +9,213 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kernal_Travel_Guide
 build_property.RootNamespace = Kernal_Travel_Guide
-build_property.ProjectDir = C:\Users\asp\Desktop\kernel-latest-main\Kernal_Travel_Guide\
+build_property.ProjectDir = C:\Users\asp\Music\KERNAL_TRAVEL-16 129-main\Kernal_Travel_Guide\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\asp\Desktop\kernel-latest-main\Kernal_Travel_Guide
+build_property.MSBuildProjectDirectory = C:\Users\asp\Music\KERNAL_TRAVEL-16 129-main\Kernal_Travel_Guide
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Admins/Create.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Admins/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Admins/Delete.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Admins/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Admins/Details.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Admins/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Admins/Edit.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Admins/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Admins/Index.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Admins/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Home/Index.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/HotelDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb3RlbERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/Hotels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb3RlbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Home/Login.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Home/Privacy.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/Packages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWNrYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Home/Signup.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/ResortDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXNvcnREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/Resorts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXNvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/RestauranttDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN0YXVyYW50dERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/Restuarnts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN0dWFybnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/Signup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWdudXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Home/user.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/TouristSpotDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUb3VyaXN0U3BvdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/TouristSpots.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUb3VyaXN0U3BvdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/TravelInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmF2ZWxJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/TravelInfoDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmF2ZWxJbmZvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Home/user.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx1c2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Hotels/Create.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Hotels/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Hotels/Delete.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Hotels/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Hotels/Details.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Hotels/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Hotels/Edit.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Hotels/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Hotels/Index.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Hotels/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Resorts/Create.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Resorts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzb3J0c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Resorts/Delete.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Resorts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzb3J0c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Resorts/Details.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Resorts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzb3J0c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Resorts/Edit.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Resorts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzb3J0c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Resorts/Index.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Resorts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzb3J0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Shared/Admin.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Shared/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Shared/Error.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Shared/login.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Shared/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/TouristSpots/Create.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/TouristSpots/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cmlzdFNwb3RzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/TouristSpots/Delete.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/TouristSpots/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cmlzdFNwb3RzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/TouristSpots/Details.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/TouristSpots/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cmlzdFNwb3RzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/TouristSpots/Edit.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/TouristSpots/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cmlzdFNwb3RzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/TouristSpots/Index.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/TouristSpots/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cmlzdFNwb3RzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/TravelInfoes/Create.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/TravelInfoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsSW5mb2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/TravelInfoes/Delete.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/TravelInfoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsSW5mb2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/TravelInfoes/Details.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/TravelInfoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsSW5mb2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/TravelInfoes/Edit.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/TravelInfoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsSW5mb2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/TravelInfoes/Index.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/TravelInfoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsSW5mb2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/_ViewImports.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/_ViewStart.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Desktop/kernel-latest-main/Kernal_Travel_Guide/Views/Shared/_Layout.cshtml]
+[C:/Users/asp/Music/KERNAL_TRAVEL-16 129-main/Kernal_Travel_Guide/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-gkpqdkv28h

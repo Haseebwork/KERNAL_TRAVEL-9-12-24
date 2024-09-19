@@ -1,11 +1,11 @@
-﻿@model IEnumerable<Kernal_Travel_Guide.Models.Resort>
+﻿@model IEnumerable<Kernal_Travel_Guide.Models.Hotel>
 
 @{
-    ViewData["Title"] = "Index";
-    Layout = "~/Views/Shared/Admin.cshtml";
+    ViewData["Title"] = "Hotels";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Index</h1>
+<h1>Hotels</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
@@ -56,9 +56,9 @@
                 @Html.DisplayFor(modelItem => item.ImageUrl)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.ResortId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.ResortId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.ResortId">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.HotelId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.HotelId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.HotelId">Delete</a>
             </td>
         </tr>
 }
